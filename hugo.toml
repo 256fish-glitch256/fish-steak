@@ -103,11 +103,11 @@ pagination.pagerSize = 5
         [[languages.en.menu.main]]
           identifier = "art"
           name = "Art"
-          url = "/art"
+          url = "/content/art"
         [[languages.en.menu.main]]
           identifier = "blog"
           name = "Blog"
-          url = "/blog"
+          url = "/content/blog"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
