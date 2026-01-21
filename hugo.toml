@@ -15,7 +15,7 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # set dir of home
-  home = "/home/"
+  home = "/content/home/"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 4
