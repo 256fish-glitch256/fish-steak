@@ -14,9 +14,6 @@ pagination.pagerSize = 5
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
-  # set dir of home
-  home = "/content/home/"
-
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 4
 
@@ -96,7 +93,7 @@ pagination.pagerSize = 5
 
       [languages.en.params.logo]
         logoText = "fish.steak"
-        logoHomeLink = "/"
+        logoHomeLink = "/home/"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
