@@ -5,6 +5,14 @@ draft: false
 
 My collection of links that I find useful. I don't guarantee these are 100% safe so be careful!
 
+---
+
+**Table of contents:**
+{{< table_of_contents >}}
+
+---
+
+
 ## Fun
 ---
 ### Games
